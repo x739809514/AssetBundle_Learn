@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2071320973
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs/enemy.prefab
+      Dependencies:
+        Dependency_0: resources/blue.material
+    Info_1:
+      Name: prefabs/player.prefab
+      Dependencies:
+        Dependency_0: resources/red.material
+    Info_2:
+      Name: prefabs/plane.prefab
+      Dependencies:
+        Dependency_0: resources/yellow.material
+    Info_3:
+      Name: resources/blue.material
+      Dependencies: {}
+    Info_4:
+      Name: resources/red.material
+      Dependencies: {}
+    Info_5:
+      Name: resources/yellow.material
+      Dependencies: {}
